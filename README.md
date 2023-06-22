@@ -1,5 +1,5 @@
 
- src="https://github.com/nazilauk/nazilauk/blob/main/code.gif?raw=true" width="500" height="320" />
+![code](https://github.com/Nazilauk/Nazilauk/assets/127387087/596cb756-07f7-40da-a851-a8795cf0a75c)
 
 
 Hi there 👋
