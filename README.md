@@ -1,5 +1,4 @@
-
-![236721253-5c49c16fba24d71a4a87dc9f920c23a5](https://github.com/Nazilauk/Nazilauk/assets/127387087/ac2d7bc9-cf4d-4d71-b87f-642bf24d6b59)
+ <img align="right" alt="GIF" src="https://github.com/nazilauk/nazilauk/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
 Hi there 👋
