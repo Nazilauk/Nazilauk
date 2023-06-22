@@ -1,6 +1,5 @@
 
- 
- <img align="right" alt="GIF" src="https://github.com/nazilauk/nazilauk/blob/main/code.gif?raw=true" width="500" height="320" />
+ src="https://github.com/nazilauk/nazilauk/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
 Hi there 👋
